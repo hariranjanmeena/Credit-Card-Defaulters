@@ -2,7 +2,7 @@
 
 ## About
 
-Tried to classify Credit-Card-Defaulters as Defaulters or NOT Defaulters using various ML algorithms. The notebook (SMS Spam Classifier.ipynb) consists of steps to process and explore the dataset, convert messages to vectors and applied ML techniques for the same.
+Tried to classify Credit-Card-Defaulters as Defaulters or NOT Defaulters using various ML algorithms. The notebook (Credit_card_defaulter.ipynb) consists of steps to process and explore the dataset, convert messages to vectors and applied ML techniques for the same.
 
 ## Dataset [link](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
